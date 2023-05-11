@@ -2,8 +2,6 @@
   <div class="post-card">
     <h4 style="margin: 5px 0;">{{ item.title }}</h4>
     <p>{{ item.body }}</p>
-    <p>{{ item.body }}</p>
-
   </div>
 </template>
 
